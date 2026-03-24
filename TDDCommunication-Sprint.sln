@@ -5,6 +5,8 @@ VisualStudioVersion = 17.14.36915.13 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDDCommunication-Sprint", "TDDCommunication-Sprint\TDDCommunication-Sprint.csproj", "{A1B80E8D-9492-4983-8AEC-320A42E42E9A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDDCommunication-Sprint.Test", "TDDCommunication-Sprint.Test\TDDCommunication-Sprint.Test.csproj", "{AD1A9DE8-C039-482B-94DD-118F00D23122}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{A1B80E8D-9492-4983-8AEC-320A42E42E9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A1B80E8D-9492-4983-8AEC-320A42E42E9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A1B80E8D-9492-4983-8AEC-320A42E42E9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD1A9DE8-C039-482B-94DD-118F00D23122}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD1A9DE8-C039-482B-94DD-118F00D23122}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD1A9DE8-C039-482B-94DD-118F00D23122}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD1A9DE8-C039-482B-94DD-118F00D23122}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

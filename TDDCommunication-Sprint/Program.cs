@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            
+            SumNumbers.SumMiddleNumbers([2,3,1]);
         }
     }
 }
